@@ -1,0 +1,82 @@
+img{ 
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+    text-align: center;
+    align-items: center;
+    display: inline-flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    lighting-color: yellow;
+    
+}
+ 
+body{ 
+    display: flex;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    height: auto;
+    
+    /* background-color: rgb(14, 233, 233); */
+    /* background-image: url(https://media0.giphy.com/avatars/julianeasily/XgpXIhg4pL5V.gif); 
+    background-size: 75%;
+    background-repeat: no-repeat; */
+   
+    
+
+    
+}
+
+#resume-container{
+    font: size 100px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: rgb(14, 233, 233); */
+    /* background-image: url(https://media0.giphy.com/avatars/julianeasily/XgpXIhg4pL5V.gif); 
+    background-size: 100%;
+    background-repeat: no-repeat; */
+    flex-basis: auto;
+    
+}    
+
+h1{
+    color:yellow;
+    margin: 1%;
+    text-align: center;
+    align-items: center;
+    
+    flex-flow: column;
+    
+    
+}
+h2{
+    color:lightgray;
+
+}
+p{
+    color:yellow;
+}
+
+.resume-body{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: px;
+    height: 100%;
+    background-image: url(https://images.freeimages.com/images/large-previews/01a/technology-background-1632715.jpg?fmt=webp&w=500); 
+    background-size: 700px  700px ; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black
+    
+}
+
+ #highlight{
+    color: yellow
+   
+  }
+
+
+    
